@@ -15,7 +15,7 @@ Welcome to my profile's description! I'm Brandon Huang, born 1998. Some fun info
 - **Support Bench**
 ## 👨‍💻 Education
 # University of California, Los Angeles:
-- ***Bachelor's Degree**
+- ***Bachelor's Degree***
 - ***Computer Science***
 - ***Information, Security Technology***
 ## 📱 Socials
